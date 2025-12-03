@@ -134,7 +134,7 @@ http://localhost:5000
 ## 👨‍💻 Desarrollado por
 
 * **Gabriel Gerardo Cardenas Briones**
-  **Branna Denisse Medrano Castillo**
+* **Branna Denisse Medrano Castillo**
 
 ---
 
