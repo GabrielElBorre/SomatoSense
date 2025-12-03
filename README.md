@@ -56,14 +56,29 @@ Las detecciones se muestran visualmente en el sistema con cajas, colores y porce
 
 
 ![Ejemplo1](1.jpg)
+
+
+
 ...
 ![Ejemplo2](2.jpg)
+
+
+
 ...
 ![Ejemplo3](3.jpg)
+
+
+
 ...
 ![Ejemplo4](4.jpg)
+
+
+
 ...
 ![Ejemplo5](5.jpg)
+
+
+
 ...
 ![Ejemplo6](6.jpg)
 
