@@ -54,7 +54,6 @@ Las detecciones se muestran visualmente en el sistema con cajas, colores y porce
 
 ## 📸 Resultados de ejemplo
 
-*(Puedes agregar tus capturas después)*
 
 ![Ejemplo1](1.jpg)
 ...
