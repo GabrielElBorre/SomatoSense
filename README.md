@@ -1,2 +1,126 @@
-# SomatoSense
-SomatoSense es un proyecto desarrollado como parte de una práctica de inteligencia artificial, con el objetivo de ofrecer una plataforma visual e interactiva para el monitoreo y detección del tipo de cuerpo denominados somatotipos s en tiempo real y imagenes.
+# 🧬 SomatoSense
+
+**SomatoSense** es una aplicación web basada en visión artificial que clasifica el **somatotipo corporal humano** usando un modelo entrenado con **YOLOv8**.
+El sistema identifica automáticamente si una persona pertenece a uno de los tres tipos somáticos:
+
+* **Ectomorfo**
+* **Mesomorfo**
+* **Endomorfo**
+
+Ideal para proyectos de IA, análisis corporal, fitness, salud y estudios deportivos.
+
+---
+
+## 📸 Interfaz principal
+
+![UI](https://cdn.shopify.com/s/files/1/0656/5960/1036/files/somatotipos-fitness-gymhawk.webp?v=1752898772)
+
+---
+
+## 🧠 ¿Qué es SomatoSense?
+
+SomatoSense analiza imágenes o cámara en vivo para determinar el tipo corporal predominante usando detección automática y clasificación profunda.
+
+✔️ Subes una imagen
+✔️ El modelo analiza las proporciones corporales
+✔️ Te devuelve el somatotipo con su porcentaje de confianza
+✔️ También puedes activar la cámara para detección en tiempo real
+
+---
+
+## 🧍‍♂️ Tipos de somatotipos detectados
+
+### **🔵 Ectomorfo**
+
+* Cuerpo delgado
+* Hombros estrechos
+* Menor masa muscular
+
+### **🟢 Mesomorfo**
+
+* Cuerpo atlético
+* Hombros anchos
+* Buena musculatura
+
+### **🔴 Endomorfo**
+
+* Cuerpo ancho
+* Mayor acumulación de grasa
+* Hombros y cadera más amplios
+
+Las detecciones se muestran visualmente en el sistema con cajas, colores y porcentajes de confianza.
+
+---
+
+## 📸 Resultados de ejemplo
+
+*(Puedes agregar tus capturas después)*
+
+![Ejemplo1](https://raw.githubusercontent.com/EduardoGMoreno/MeowtonSense/main/MeowtonSense1.png)
+![Ejemplo2](https://raw.githubusercontent.com/EduardoGMoreno/MeowtonSense/main/MeowtonSense2.png)
+
+---
+
+## 🚀 ¿Cómo ejecutar SomatoSense?
+
+### 1️⃣ Clona el repositorio
+
+```bash
+[git clone https://github.com/GabrielElBorre/SomatoSense.git]
+cd SomatoSense
+```
+
+### 2️⃣ Crea un entorno virtual
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3️⃣ Instala dependencias
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Ejecuta la app
+
+```bash
+python app.py
+```
+
+### 5️⃣ Abre el navegador
+
+```
+http://localhost:5000
+```
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* 🐍 **Python 3.12**
+* 🌐 **Flask**
+* 🤖 **YOLOv8 – Ultralytics**
+* 🎥 **OpenCV**
+* 🎨 **HTML5 + CSS3**
+* 🔧 **JavaScript**
+
+---
+
+## 👨‍💻 Desarrollado por
+
+* **Gabriel Gerardo Cardenas Briones**
+  **Branna Denisse Medrano Castillo**
+
+---
+
+## ✨ Funciones futuras
+
+* 🌍 **Versión web hospedada en la nube** (Render / Railway / VPS)
+* 📱 **Interfaz móvil totalmente responsiva**
+* ♀️ **Dataset Mas Completo incluyendo el genero femenino** por detecciones específicas
+* 🔐 **Sistema de autenticación** para proteger la vista en vivo
+* 🖼️ **Más clases de somatotipos y características corporales**
+
+
