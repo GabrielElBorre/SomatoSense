@@ -13,7 +13,7 @@ Ideal para proyectos de IA, análisis corporal, fitness, salud y estudios deport
 
 ## 📸 Interfaz principal
 
-![UI]([https://cdn.shopify.com/s/files/1/0656/5960/1036/files/somatotipos-fitness-gymhawk.webp?v=1752898772](https://github.com/GabrielElBorre/SomatoSense/blob/main/interface.png))
+![UI](interface.png)
 
 ---
 
