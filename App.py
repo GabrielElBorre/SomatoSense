@@ -14,7 +14,7 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(RESULT_FOLDER, exist_ok=True)
 
 # Cargar tu modelo entrenado
-model = YOLO(r"C:\Users\sebas\Desktop\proyecto IA2.0\runs\somatotipo_final_v3\weights\best.pt")
+model = YOLO(r"proyecto IA2.0\runs\somatotipo_final_v3\weights\best.pt")
 
 # -----------------------------------------------------------
 # DETECCIÓN GENERAL
@@ -125,4 +125,5 @@ def video():
 # EJECUTAR
 # -----------------------------------------------------------
 if __name__ == "__main__":
+
     app.run(host="0.0.0.0", port=5000, debug=True)
