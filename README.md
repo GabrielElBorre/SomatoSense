@@ -146,4 +146,27 @@ http://localhost:5000
 * 🔐 **Sistema de autenticación** para proteger la vista en vivo
 * 🖼️ **Más clases de somatotipos y características corporales**
 
+**Aviso legal sobre el uso de imágenes**
+
+Las imágenes utilizadas en este proyecto provienen únicamente de redes sociales y plataformas públicas (TikTok, Pinterest, Instagram, X/Twitter, Facebook y Grok).
+Estas imágenes se emplearon exclusivamente para fines educativos, demostrativos y de investigación académica, sin intención de lucro.
+
+No se reclama propiedad sobre dichas imágenes.
+Todos los derechos pertenecen a sus respectivos autores y plataformas de origen.
+
+Si algún autor desea que su contenido sea retirado, puede solicitarlo y será eliminado de inmediato.
+
+Uso justo académico (Fair Use)
+
+El dataset creado para entrenar el modelo de clasificación de somatotipos se utilizó bajo el principio de uso justo educativo.
+Las imágenes:
+
+• No se distribuyen públicamente.
+• No se monetizan.
+• No permiten identificar a personas de forma explícita.
+• Se emplean únicamente con propósitos de aprendizaje y análisis 
+algorítmico.
+
+Este proyecto no almacena información personal ni busca representar a personas reales, sino ejemplificar el comportamiento del modelo de visión computacional.
+
 
